@@ -23,8 +23,8 @@
 &kp TAB    &kp Q      &kp W     &kp E      &kp R      &kp T                           &kp Y      &kp U      &kp I      &kp O      &kp P          &kp BSLH
 &kp LALT   &kp A      &kp S     &kp D      &kp F      &kp G                           &kp H      &kp J      &kp K      &kp L      &mt LGUI SEMI  &kp SQT
 &kp LCTRL  &kp Z      &kp X     &kp C      &kp V      &kp B                           &kp N      &kp M      &kp COMMA  &kp DOT    &kp FSLH       &kp RALT
-           &kp N6     &kp LBKT  &mt LGUI   &mo RAISE  &kp SPACE                       &kp ENTER  &mo LOWER  &kp MINUS  &kp EQUAL  &kp SPACE 
-            >;
+           &kp N6     &kp LBKT  &kp LGUI   &kp N      &kp SPACE                       &kp ENTER  &kp M      &kp MINUS  &kp EQUAL  &kp SPACE
+           >;
         };
    };
 };
